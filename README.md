@@ -1,4 +1,9 @@
 ## Welcome to the AVALON Stores Application
+.
+├── about.md    # => http://example.com/about.html
+├── index.html    # => http://example.com/
+└── contact.html  # => http://example.com/contact.html
+
 
 You can use the [editor on GitHub](https://github.com/pblythe/AVALON/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
